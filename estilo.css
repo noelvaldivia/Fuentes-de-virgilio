@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Just+Another+Hand|Lato&display=swap');
+body {
+    background-color: #caac4d;
+}
+
+p.blanco{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    font-size: 400%;
+    text-align: right;
+}
+
+
+p.negro{
+        font-family: 'Just Another Hand', cursive;
+        color: black;
+        font-size: 400%;
+}
+ h1{
+     font-family: sans-serif;
+     font-size: 200%;
+     text-align: center;
+ }
+ p.uno{
+    font-family: sans-serif;
+    font-size: 100%;
+    text-align: center;
+}
+ 
